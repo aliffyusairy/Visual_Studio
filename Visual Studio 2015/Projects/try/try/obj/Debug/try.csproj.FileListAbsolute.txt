@@ -1,0 +1,9 @@
+c:\users\mabdrahi\documents\visual studio 2015\Projects\try\try\bin\Debug\@try.exe.config
+c:\users\mabdrahi\documents\visual studio 2015\Projects\try\try\bin\Debug\@try.exe
+c:\users\mabdrahi\documents\visual studio 2015\Projects\try\try\bin\Debug\@try.pdb
+c:\users\mabdrahi\documents\visual studio 2015\Projects\try\try\obj\Debug\try.csprojResolveAssemblyReference.cache
+c:\users\mabdrahi\documents\visual studio 2015\Projects\try\try\obj\Debug\try.Form1.resources
+c:\users\mabdrahi\documents\visual studio 2015\Projects\try\try\obj\Debug\try.Properties.Resources.resources
+c:\users\mabdrahi\documents\visual studio 2015\Projects\try\try\obj\Debug\try.csproj.GenerateResource.Cache
+c:\users\mabdrahi\documents\visual studio 2015\Projects\try\try\obj\Debug\@try.exe
+c:\users\mabdrahi\documents\visual studio 2015\Projects\try\try\obj\Debug\@try.pdb
